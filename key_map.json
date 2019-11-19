@@ -1,0 +1,20 @@
+{
+  "LOL": {
+    "prefix": {
+      "升级技能": "evtLevelSpell",
+      "快速播放表情": "evtRadialEmotePlaySlot"
+    },
+    "升级技能1": "evtLevelSpell1",
+    "升级技能2": "evtLevelSpell2",
+    "升级技能3": "evtLevelSpell3",
+    "升级技能4": "evtLevelSpell4",
+    "大笑": "evtEmoteLaugh",
+    "形态切换": "evtEmoteToggle",
+    "成就表情": "evtChampMasteryDisplay",
+    "快速播放上侧表情": "evtRadialEmotePlaySlot0",
+    "快速播放右侧表情": "evtRadialEmotePlaySlot1",
+    "快速播放下侧表情": "evtRadialEmotePlaySlot2",
+    "快速播放左侧表情": "evtRadialEmotePlaySlot3",
+    "快速播放中间表情": "evtRadialEmotePlaySlot4"
+  }
+}
