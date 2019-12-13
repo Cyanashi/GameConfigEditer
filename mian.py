@@ -96,6 +96,7 @@ def process(game, key_name, key_bind, debug=False):
                 desc = "亮狗牌 没什么好说的"
             elif game_config[index]['name'] == KEY_MAP['形态切换']:
                 desc = "亚索绑定Q可以自动收刀"
+                
             elif game_config[index]['name'] == KEY_MAP['大笑']:
                 desc = "锐雯QA 亚索光速E"
             if game_config[index]['name'] == KEY_MAP[key_name]:
